@@ -1,5 +1,4 @@
 # laundry management system
-<!-- Comentario de Mario -->
 ---
 ## Using Tech:
 
@@ -36,4 +35,4 @@
 
 ---
 <!--angel tarensi commit-->
-<!--angel tarensi commitv2-->
+<!--angel tarensi v2 propietari-->
